@@ -1,4 +1,4 @@
-from model import keypoint_model, orientation_model
+from models import keypoint_model, orientation_model
 from utils import post_process_orient, Transformer, post_process_kp
 from utils import Transformer
 
